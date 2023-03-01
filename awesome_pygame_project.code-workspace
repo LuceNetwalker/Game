@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "awesome_pygame_project",
+			"path": "../awesome_pygame_project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
